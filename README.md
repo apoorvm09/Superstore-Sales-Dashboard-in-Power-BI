@@ -1,6 +1,6 @@
 # Superstore-Sales-Dashboard-in-Power-BI
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/apoorvm09/Superstore-Sales-Dashboard-in-Power-BI/blob/main/Superstore%20Sales%20Dashboard.png)
 
 Welcome to the Superstore Sales Dashboard! This Power BI dashboard provides a comprehensive visualization of sales data from the Superstore dataset, showcasing the power of Power BI's major components. From filters and slicers to various visualizations, calculated columns, and measures, this dashboard offers valuable insights into the sales performance of the Superstore.
 
